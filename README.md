@@ -1,5 +1,5 @@
 # variant_calling
-Variants (SNPs and INDELs) calling comprise of a series of steps (scripts). And for the scripts in this repository, samples are aligned to a reference genome. Where possible the scripts stated below tries to improve computational efficiency by paralising jobs.    
+Variants (SNPs and INDELs) calling comprise of a series of steps (scripts). And for the scripts in this repository, samples are aligned to a reference genome. Where possible the scripts stated below tries to improve computational efficiency by paralising jobs. Different steps and scripts to perform variant calling are below.   
 ### step 1
 Run TrimoTrimFilt-copy.sh  # This is to filter the reads and remove reads with low quality score
 
